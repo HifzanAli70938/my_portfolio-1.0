@@ -25,7 +25,7 @@ const TestimonialCard: React.FC<TestimonialCardProps> = ({ name, role, content, 
             </div>
 
             <p className="text-text-secondary italic leading-relaxed mb-8 text-lg font-sans relative z-10 flex-grow group-hover:text-text-primary/90 transition-colors">
-                "{content}"
+                &quot;{content}&quot;
             </p>
 
             <div className="flex items-center gap-5 border-t border-white/5 pt-6 mt-auto">

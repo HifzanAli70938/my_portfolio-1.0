@@ -30,7 +30,7 @@ const Footer = () => {
               </span>
             </div>
             <p className="text-text-secondary text-lg leading-relaxed font-sans mb-8">
-              Empowering businesses with intelligent web solutions and advanced AI automation. Let's build the future together.
+              Empowering businesses with intelligent web solutions and advanced AI automation. Let&apos;s build the future together.
             </p>
             <div className="flex gap-4 justify-center md:justify-start">
               {[
