@@ -39,7 +39,7 @@ function AboutSection() {
                                     With a deep focus on <span className="text-accent-cyan font-bold">Next.js</span> and <span className="text-accent-purple font-bold">AI Automation</span>, I specialize in creating seamless user interfaces while architecting robust backend systems that leverage the power of LLMs via LangChain and LangGraph.
                                 </p>
                                 <p>
-                                    I prioritize pixel-perfect precision and clean, scalable code. Whether it's a dynamic web application or a complex automation workflow, I ensure every solution is optimized for speed and reliability.
+                                    I prioritize pixel-perfect precision and clean, scalable code. Whether it&apos;s a dynamic web application or a complex automation workflow, I ensure every solution is optimized for speed and reliability.
                                 </p>
                             </div>
 

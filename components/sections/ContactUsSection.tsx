@@ -59,12 +59,12 @@ const ContactUsSection = () => {
             {/* Contact Info & Map */}
             <div className="space-y-12">
               <div>
-                <p className="text-accent-cyan font-black tracking-widest uppercase text-xs mb-4">Let's Connect</p>
+                <p className="text-accent-cyan font-black tracking-widest uppercase text-xs mb-4">Let&apos;s Connect</p>
                 <h2 className="text-4xl md:text-5xl font-extrabold text-text-primary mb-8 leading-tight tracking-tight">
                   Have a project in <span className="accent-gradient">mind?</span>
                 </h2>
                 <p className="text-text-secondary text-lg font-sans max-w-lg">
-                  I'm available for full-time roles, freelance projects, and automation consulting. Let's build something exceptional together.
+                  I&apos;m available for full-time roles, freelance projects, and automation consulting. Let&apos;s build something exceptional together.
                 </p>
               </div>
 

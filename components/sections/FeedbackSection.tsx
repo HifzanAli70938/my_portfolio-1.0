@@ -154,7 +154,7 @@ export default function FeedbackSection() {
               transition={{ delay: 0.15 }}
               className="text-base sm:text-lg md:text-xl text-text-secondary leading-relaxed font-light max-w-2xl mx-auto"
             >
-              Discover how we've transformed businesses with innovative AI automation and full-stack development.
+              Discover how we&apos;ve transformed businesses with innovative AI automation and full-stack development.
               <span className="block mt-2 text-accent-cyan/80 font-medium">Real stories, real impact.</span>
             </motion.p>
           </motion.div>

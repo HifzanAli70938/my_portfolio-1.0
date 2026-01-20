@@ -42,7 +42,7 @@ function HeroSection() {
                   duration={800}
                   className="px-10 py-4 border border-white/20 text-text-primary font-bold rounded-2xl hover:bg-white/5 hover:border-white/40 transition-all duration-300 cursor-pointer"
                 >
-                  Let's Talk
+                  Let&apos;s Talk
                 </ScrollLink>
               </div>
 
